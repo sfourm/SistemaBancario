@@ -1,0 +1,17 @@
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.exe
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.deps.json
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.runtimeconfig.json
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.runtimeconfig.dev.json
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.dll
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.pdb
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.AssemblyInfo.cs
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.dll
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.pdb
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.genruntimeconfig.cache
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.Principal.resources
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.Properties.Resources.resources
+C:\Users\samue\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.Cadastro.resources
